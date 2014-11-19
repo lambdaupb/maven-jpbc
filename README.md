@@ -7,7 +7,7 @@ maven repository
     <repository>
       <id>lambdaupb.jpbc.fake</id>
       <name>UNMAINTAINED jPBC maven repository</name>
-      <url>https://raw.github.com/lambdaupb/jpbc-maven/</url>
+      <url>https://raw.github.com/lambdaupb/maven-jpbc/master/</url>
     </repository>
 
 
